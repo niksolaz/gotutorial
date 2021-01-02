@@ -40,3 +40,7 @@ func TestCalculateMultiply(t *testing.T) {
 		}
 	}
 }
+
+func TestPrintString(t *testing.T) {
+	PrintString("Nicola")
+}

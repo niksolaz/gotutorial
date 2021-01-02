@@ -16,6 +16,11 @@ func CalculateMultiply(x int) (result int) {
 	return result
 }
 
+func PrintString(x string) (result string) {
+	result = "This is string: " + x
+	return result
+}
+
 func main() {
 	fmt.Println("Hello World")
 }
