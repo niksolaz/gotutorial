@@ -1,5 +1,5 @@
 # test file go
- for more info you can read [a link][https://tutorialedge.net/golang/intro-testing-in-go/]
+ for more info you can read https://tutorialedge.net/golang/intro-testing-in-go/
 
 # 1
 go test
