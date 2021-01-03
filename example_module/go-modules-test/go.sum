@@ -1,0 +1,3 @@
+github.com/niksolaz/gotutorial v0.0.0-20210102162035-5123e8223102 h1:/6i702usIRZpggdXEhdteaQ+zwlh8CEt10nOIh7uoLM=
+github.com/niksolaz/gotutorial/example_module/go-mod-private-test v0.0.0-20210102162035-5123e8223102 h1:4L/2VSVdY/3E1Mfulk+Z0Nlyd0wMPpXpvcDglluyx38=
+github.com/niksolaz/gotutorial/example_module/go-mod-private-test v0.0.0-20210102162035-5123e8223102/go.mod h1:B6x5g/dQMASKvDdE9nBYGYRjnDP37N0fXWtIimWda2o=
