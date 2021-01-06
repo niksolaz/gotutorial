@@ -21,12 +21,12 @@
     ],
     "projects": [
         {   
-            "project_id": 234234,
+            "projects_id": 234234,
             "title": "Title project 1",
             "description": "lorem ipsum ..."
         },
         {
-            "project_id": 249943,
+            "projects_id": 249943,
             "title": "Title project 2",
             "description": "lorem ipsum ..."
         }
