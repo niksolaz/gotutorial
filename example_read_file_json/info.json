@@ -1,0 +1,34 @@
+{
+    "users": [
+      {
+        "name": "Marco",
+        "type": "Franchi",
+        "age": 34,
+        "social": {
+          "facebook": "https://facebook.com",
+          "twitter": "https://twitter.com"
+        }
+      },
+      {
+        "name": "Nicola",
+        "type": "Solazzo",
+        "age": 44,
+        "social": {
+          "facebook": "https://facebook.com",
+          "twitter": "https://twitter.com"
+        }
+      }
+    ],
+    "projects": [
+        {   
+            "projects_id": 234234,
+            "title": "Title project 1",
+            "description": "lorem ipsum ..."
+        },
+        {
+            "projects_id": 249943,
+            "title": "Title project 2",
+            "description": "lorem ipsum ..."
+        }
+    ]
+  }
